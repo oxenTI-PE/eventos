@@ -24,9 +24,9 @@ Se você tem algum evento (seja você um participante ou mesmo criador) pode adi
 
 ### Quero palestrar!
 
-Se sente a vontade e quer apresentar uma idéia bacana? Achou algo legal e quer compartilhar com a galera? Tem um bug ou situação que aprendeu muito e quer ajudar a comunidade? Ou quer levar uma tecnologia ou metodologia pro pessoal discutir?
+Se sente à vontade e quer apresentar uma idéia bacana? Achou algo legal e quer compartilhar com a galera? Tem um bug ou situação que aprendeu muito e quer ajudar a comunidade? Ou quer levar uma tecnologia ou metodologia pro pessoal discutir?
 
-Envie algumas informações pra gente através [desse link](#) e assim entraremos em contato pra verificar sua disponibilidade na data do evento.
+Envie algumas informações pra gente através [desse link](#) e assim entraremos em contato para verificar sua disponibilidade na data do evento.
 
 <!-- espaço de agradecimentos com lista dos organizadores -->
 <!-- redes sociais "Nos acompanhe" -->
