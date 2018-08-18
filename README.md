@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <!--- <img src="" alt="oxenTI-PE logo" width="400"> -->
+  <img src="LOGO.svg" alt="oxenTI-PE logo" width="400">
   <br>
   Eventos
 </h1>
