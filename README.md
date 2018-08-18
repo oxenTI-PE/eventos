@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
   <img src="LOGO.svg" alt="oxenTI-PE logo" width="400">
-  <br>
   Eventos
 </h1>
 <h4 align="center">Repositório de meetups, eventos, encontros ou qualquer outra coisa<br>
