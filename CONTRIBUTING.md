@@ -1,4 +1,4 @@
-## :mega: Incluindo novos meets
+## :mega: Incluindo novos meetups
 
 Pra facilitar a adição de um evento, criamos um template básico pra o envio.
 
