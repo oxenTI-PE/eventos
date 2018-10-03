@@ -18,7 +18,7 @@ Se você tem algum evento (seja você um participante ou mesmo criador) pode adi
 
 ### Quero participar!
 
-É só nos seguir nas [redes sociais](#redes-sociais), estaremos divulgando por lá as informações dos próximos encontros na comunidade.
+É só nos seguir em nosso [Slack](https://oxentipe-slack-invite.herokuapp.com/), estaremos divulgando por lá as informações dos próximos encontros na comunidade.
 
 ### Quero palestrar!
 
